@@ -6,10 +6,6 @@
 </h5>
 
 <p align="center">
-🚧 In active migration to Kotlin Multiplatform: <a href="https://github.com/serbelga/ToDometerKotlinMultiplatform">ToDometerKotlinMultiplatform</a>
-</p>
-
-<p align="center">
 <img src="https://github.com/serbelga/ToDometer/workflows/Android%20CI/badge.svg" alt="Android CI Status">
 </p>
 
